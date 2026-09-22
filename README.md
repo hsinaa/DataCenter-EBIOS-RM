@@ -87,4 +87,4 @@ Le projet comprend :
 
 ## Auteur
 
-Projet rpersonnel éalisé par AMANSAG Hasnae pour apprendre et appliquer la méthode **EBIOS Risk Manager** à un environnement de datacenter.
+Projet personnel réalisé par AMANSAG Hasnae pour apprendre et appliquer la méthode **EBIOS Risk Manager** à un environnement de datacenter.
